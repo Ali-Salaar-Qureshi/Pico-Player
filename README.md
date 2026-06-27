@@ -1,7 +1,7 @@
 Project outline:
 
 Upon completion this project will:
-- Based on the Seeed studio Xiao rp2040
+- Be based on the Seeed studio Xiao rp2040
 - Play audio through a 3.5mm audio jack via a dfplayer mini.
 - Have an intuitive ui based on a single mechanical keyboard key, a rotary encoder with a push button, and an oled display module.
 - Be able to select a song, change the volume and autoplay songs linearly (Sadly no shuffle).
